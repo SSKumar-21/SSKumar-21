@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SIDHARTH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img alt="CODING" width=400px align="right" src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif">
+<img alt="CODING" width=400px align="right" src="coding.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sskumar-21&label=Profile%20views&color=0e75b6&style=flat" alt="sskumar-21" />
