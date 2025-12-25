@@ -19,9 +19,7 @@
   <a href="https://linkedin.com/in/sidharth kumar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth kumar" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/2_sskumar_1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2_sskumar_1" height="30" width="40" />
-  </a>
+  
   <a href="https://www.leetcode.com/sskumar-21" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sskumar-21" height="30" width="40" />
   </a>
