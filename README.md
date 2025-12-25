@@ -4,7 +4,7 @@
   <img src="https://github.com/SSKumar-21/SSKumar-21/blob/53dc6b00b69263e98af7a69119a872436189819c/Black%20Neon%20Modern%20Gaming%20Twitch%20Banner.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00fff0;">Sidharth Kumar</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF00FF;">Sidharth Kumar</span></h1>
 <h3 align="center">Frontend Developer • App Developer • Programmer</h3>
 
 <p align="center">
@@ -53,9 +53,9 @@ Tools: Git, GitHub, VS Code
 🔹 Contribution Activity
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sskumar-21&theme=tokyonight&utcOffset=5.5" /> </p>
 🔹 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sskumar-21&show_icons=true&theme=tokyonight&border_radius=12" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sskumar-21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
 🔹 Language Distribution
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskumar-21&layout=compact&theme=tokyonight&border_radius=12" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskumar-21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
 🔹 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sskumar-21&theme=tokyonight&border_radius=12" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sskumar-21&theme=tokyonight&hide_border=true&border_radius=12" /> </p>
 <h3 align="center" style="color:#00fff0;"> Focused on consistency, clean code, and continuous improvement 🚀 </h3> 
