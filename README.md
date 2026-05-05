@@ -1,7 +1,6 @@
 <div align="center">
 
-![Banner](https://github.com/SSKumar-21/SSKumar-21/blob/53dc6b00b69263e98af7a69119a872436189819c/Black%20Neon%20Modern%20Gaming%20Twitch%20Banner.png)
-
+  
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0033,50:3b0764,100:1a0033&height=220&section=header&text=Sidharth%20Kumar&fontSize=75&fontColor=e9d5ff&fontAlignY=62&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20AI%20Nerd%20%7C%20Chess%20Menace%20%E2%99%9F%EF%B8%8F&descAlignY=80&descSize=20&descColor=a855f7" />
 
 </div>
@@ -40,6 +39,30 @@ vibe:    "Ship it, deploy it, and pray 🙏"
 
 <br clear="right"/>
 
+---
+## 📊 GitHub — The Receipts
+
+> *"My commit history is basically my diary."* 📓
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sskumar-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&bg_color=0d0020&border_radius=10" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=sskumar-21&theme=tokyonight&hide_border=true&background=0d0020&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=7c3aed&border_radius=10" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sskumar-21&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e9d5ff&bg_color=0d0020&border_radius=10&langs_count=8" />
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## ⚡ Arsenal — Weapons of Mass Construction
@@ -131,32 +154,6 @@ vibe:    "Ship it, deploy it, and pray 🙏"
 
 </td>
 
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub — The Receipts
-
-> *"My commit history is basically my diary."* 📓
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sskumar-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&bg_color=0d0020&border_radius=10" />
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=sskumar-21&theme=tokyonight&hide_border=true&background=0d0020&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e9d5ff&dates=7c3aed&border_radius=10" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sskumar-21&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e9d5ff&bg_color=0d0020&border_radius=10&langs_count=8" />
-</td>
 </tr>
 </table>
 
